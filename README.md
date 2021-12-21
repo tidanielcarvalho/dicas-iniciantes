@@ -5,16 +5,16 @@ _______________________
     https://youtu.be/Ugn5pk793bU 
 
 2. #####  HTML + CSS 
-    1. (Módulo 1) HTML + CSS + Introdução sobre como a Internet funciona
-    https://www.cursoemvideo.com/curso/html5-css3-modulo1/
+    1. (Módulo 1) HTML + CSS + Introdução sobre como a Internet funciona \
+    https://www.cursoemvideo.com/curso/html5-css3-modulo1/ \
     _Link alternativo: https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n_
 
-    2. (Módulo 2) HTML + CSS 
-    https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/
+    2. (Módulo 2) HTML + CSS \
+    https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/ \
     _Link alternativo: https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s_
 
-    3. (Módulo 3) HTML + CSS 
-    https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/
+    3. (Módulo 3) HTML + CSS \
+    https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-3-de-5-40-horas/ \
     _Link alternativo: https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ_
 
 3. ##### Lógica de programação + PHP 

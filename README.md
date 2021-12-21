@@ -27,7 +27,8 @@ _______________________
     https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I
    
 6. ##### Banco de dados - MySQL
-    https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r
+    https://www.cursoemvideo.com/curso/mysql/
+    _Link Alternativo: https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r_
 
 ##### Extras
 * Roadmap: https://roadmap.sh/backend
